@@ -30,6 +30,7 @@ technology in practice.
 - Maryna Hordiienko ([@ms-Maryna](https://github.com/ms-Maryna))
 - Nikita Smiichyk ([@nikitsya](https://github.com/nikitsya))
 - Hanna Bokariuk ([@HannaBProjects](https://github.com/HannaBProjects))
+- Bernard Joyce
 
 ## Assignment Requirements
 
