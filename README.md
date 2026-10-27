@@ -23,7 +23,7 @@
 - Q&A after the presentation.
 - Upload slides and supporting material to Moodle.
 
-[Full requirements](docs/requirements.md) · [Draft presentation plan](docs/presentation-outline.md)
+[Full requirements](docs/presentation-brief.docx) · [Draft presentation plan](docs/presentation-outline.md)
 
 ## Demo
 
