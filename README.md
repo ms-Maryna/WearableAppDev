@@ -28,5 +28,10 @@ the Android Studio emulator.
 ## Working together
 
 - Use your own branch and open a pull request to `main`.
-- Track tasks in GitHub Issues.
+- Track tasks and keep their status up to date on
+  our [Kanban board](https://github.com/users/nikitsya/projects/6/views/1):
+    - **Backlog** — tasks we plan to do.
+    - **In progress** — work currently underway.
+    - **In review** — work ready for everyone in the team to check.
+    - **Done** — reviewed by the whole team, with everyone agreeing it is complete.
 - Collect sources in `research/references.md` once research starts.
