@@ -31,8 +31,10 @@ Idea and platform still to be agreed.
 
 ## Working together
 
-Track tasks and keep their status up to date on our [Kanban board](https://github.com/users/nikitsya/projects/6/views/1):
-  - **Backlog** — tasks we plan to do.
-  - **In progress** — work currently underway.
-  - **In review** — work ready for everyone in the team to check.
-  - **Done** — reviewed by the whole team, with everyone agreeing it is complete.
+Track tasks and keep their status up to date on
+our [Kanban board](https://github.com/users/nikitsya/projects/6/views/1):
+
+- **Backlog** — tasks we plan to do.
+- **In progress** — work currently underway.
+- **In review** — work ready for everyone in the team to check.
+- **Done** — reviewed by the whole team, with everyone agreeing it is complete.
