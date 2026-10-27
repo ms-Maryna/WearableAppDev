@@ -6,6 +6,9 @@
 
 **Topic:** 7. Wearable App Development
 
+- Developing apps for wearables (smartwatches, fitness trackers).
+- Exploring Google Wear OS, Apple Watch development.
+
 ## Team
 
 - Maryna Hordiienko ([@ms-Maryna](https://github.com/ms-Maryna))
