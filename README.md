@@ -2,6 +2,8 @@
 
 **Assessment:** Mobile Integration CA2 – Group Presentation (15%)
 
+**Group:** G7
+
 **Topic:** 7. Wearable App Development
 
 ## Team
