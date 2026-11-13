@@ -27,7 +27,8 @@
 
 ## Demo
 
-Idea and platform still to be agreed.
+We compare list scrolling on Wear OS and watchOS. See
+our [presentation and demo plan](docs/presentation-and-demo.md).
 
 ## Working together
 
