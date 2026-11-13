@@ -30,6 +30,12 @@
 We compare list scrolling on Wear OS and watchOS. See
 our [presentation and demo plan](docs/presentation-and-demo.md).
 
+**Nikita’s Apple Watch
+demo.** [Download Apple’s Landmarks sample (ZIP)](https://github.com/ms-Maryna/WearableAppDev/raw/refs/heads/main/CreatingAwatchOSApp.zip),
+unzip it and open `Complete/CreatingAwatchOSApp.xcodeproj` in Xcode. Run the watch app in an Apple
+Watch simulator. Scroll through the list and tap a landmark to see its details. As you review it,
+compare how the rows behave when scrolling with what you see in Hanna’s Wear OS demo.
+
 ## Working together
 
 Track tasks and keep their status up to date on
