@@ -26,8 +26,8 @@ Unzip it and open `codelab-compose-for-wear-os-main` in Android Studio. Run the 
 a Wear OS emulator and scroll the list to see how rows shrink and fade near the screen edge.
 
 **Nikita’s Apple Watch
-demo.** [Download our simplified Landmarks demo (ZIP)](https://github.com/ms-Maryna/WearableAppDev/raw/refs/heads/main/samples/CreatingAwatchOSApp.zip),
-unzip it and open `Complete/CreatingAwatchOSApp.xcodeproj` in Xcode. Run the watch app in an Apple
+demo.** [Download our simplified Landmarks demo (ZIP)](https://github.com/ms-Maryna/WearableAppDev/raw/refs/heads/main/samples/CreatingAwatchOSApp.zip).
+Unzip it and open `Complete/CreatingAwatchOSApp.xcodeproj` in Xcode. Run the watch app in an Apple
 Watch simulator. Scroll through the list and tap a landmark to see its details. As you review it,
 compare how the rows behave when scrolling with what you see in Hanna’s Wear OS demo. The demo uses
 photos and data
