@@ -6,16 +6,6 @@
 
 **Topic:** 7. Wearable App Development
 
-- Developing apps for wearables (smartwatches, fitness trackers).
-- Exploring Google Wear OS, Apple Watch development.
-
-## Team
-
-- Maryna Hordiienko ([@ms-Maryna](https://github.com/ms-Maryna))
-- Nikita Smiichyk ([@nikitsya](https://github.com/nikitsya))
-- Hanna Bokariuk ([@HannaBProjects](https://github.com/HannaBProjects))
-- Bernard Joyce ([@Bernie-Joyce](https://github.com/Bernie-Joyce))
-
 ## What we need
 
 - Presentation: up to 20 minutes, with 8+ sources on the final References slide.
