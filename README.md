@@ -30,9 +30,10 @@
 We compare list scrolling on Wear OS and watchOS. See
 our [presentation and demo plan](docs/presentation-and-demo.md).
 
-**Hanna’s Wear OS demo.** [Download Google’s Compose for Wear OS sample (ZIP)](https://github.com/ms-Maryna/WearableAppDev/raw/refs/heads/main/codelab-compose-for-wear-os-main.zip).
-Unzip it and open `codelab-compose-for-wear-os-main` in Android Studio. Run the `finished` module
-on a Wear OS emulator and scroll the list to see how rows shrink and fade near the screen edge.
+**Hanna’s Wear OS
+demo.** [Download Google’s Compose for Wear OS sample (ZIP)](https://github.com/ms-Maryna/WearableAppDev/raw/refs/heads/main/codelab-compose-for-wear-os-main.zip).
+Unzip it and open `codelab-compose-for-wear-os-main` in Android Studio. Run the `finished` module on
+a Wear OS emulator and scroll the list to see how rows shrink and fade near the screen edge.
 
 **Nikita’s Apple Watch
 demo.** [Download Apple’s Landmarks sample (ZIP)](https://github.com/ms-Maryna/WearableAppDev/raw/refs/heads/main/CreatingAwatchOSApp.zip),
