@@ -74,3 +74,22 @@ I matched the code in `LandmarkDetail.swift` to what I saw after tapping St. Mar
 | 6–8   | `body` describes the screen. `VStack` arranges the photo and text from top to bottom. The surrounding `ScrollView` lets me scroll vertically if the content extends beyond the watch screen.                    |
 | 9–11  | For St. Mary Lake, `Image(landmark.imageName)` selects the `stmarylake` photo from Assets. With `.resizable()` and `.scaledToFit()`, the whole photo fits the available space and keeps its proportions.        |
 | 12–16 | I see **St. Mary Lake** in the headline style, then **Glacier National Park** underneath. The final modifier, `.foregroundStyle(.secondary)`, applies only to the state, so **Montana** appears less prominent. |
+
+## Resources
+
+Apple’s [Creating a watchOS app](https://developer.apple.com/tutorials/swiftui/creating-a-watchos-app) is the Landmarks
+tutorial we
+adapted. [Download Apple’s original project (ZIP)](https://developer.apple.com/tutorials/downloads/com.apple.SwiftUI/CreatingAwatchOSApp.zip).
+
+To follow the screenshots in this
+walkthrough, [download our simplified WatchLandmarks demo (ZIP)](https://github.com/ms-Maryna/WearableAppDev/raw/refs/heads/main/samples/CreatingAwatchOSApp.zip).
+Unzip it, open `Complete/CreatingAwatchOSApp.xcodeproj` in Xcode, select an Apple Watch simulator and press **⌘R**.
+
+| Part of our demo                                                    | Apple documentation                                                                                                                                    |
+|---------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Choose a simulator in Xcode and run the watch app                   | [Running your app on simulated or physical devices](https://developer.apple.com/documentation/xcode/running-your-app-on-simulated-or-physical-devices) |
+| Understand why `@main` marks `WatchLandmarksApp` as the entry point | [App](https://developer.apple.com/documentation/swiftui/app)                                                                                           |
+| Decode the records in `landmarks.json` into an array of landmarks   | [JSONDecoder](https://developer.apple.com/documentation/foundation/jsondecoder)                                                                        |
+| Show one row per landmark in a scrollable list                      | [List](https://developer.apple.com/documentation/swiftui/list)                                                                                         |
+| Open the detail view when we tap St. Mary Lake                      | [NavigationLink](https://developer.apple.com/documentation/swiftui/navigationlink)                                                                     |
+| Display the photo named by `imageName` from the asset catalogue     | [Image](https://developer.apple.com/documentation/swiftui/image)                                                                                       |
