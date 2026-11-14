@@ -6,6 +6,8 @@ park and the state.
 
 ## What I saw in the simulator
 
+[Watch the WatchLandmarks demo (MOV)](watchlandmarks-demo.mov)
+
 I ran the app from Xcode and saw the mountain icon while it loaded. The first screen showed Turtle Rock, Silver Salmon
 Creek and Chilkoot Trail. Each row had a name and a small round photo.
 
