@@ -5,7 +5,7 @@
 - Q&A after the presentation.
 - Upload slides and supporting material to Moodle.
 
-[Full requirements](docs/presentation-brief.docx)
+[Full requirements](docs/brief/presentation-brief.docx)
 
 ## Demo
 
